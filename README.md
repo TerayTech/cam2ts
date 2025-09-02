@@ -21,7 +21,7 @@
 
 1. 克隆仓库并赋予执行权限：
    ```bash
-   git clone https://github.com/yourname/cam2ts.git
+   git clone https://github.com/TerayTech/cam2ts.git
    cd cam2ts
    chmod +x cam2ts.sh
    ````
